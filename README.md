@@ -115,7 +115,9 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+
+![Screenshot 2024-09-06 090955](https://github.com/user-attachments/assets/944fd1ed-b370-40e1-9e08-577c3927ac5f)
+
 
 <hr>
 <h3>Result:</h3>
